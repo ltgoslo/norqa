@@ -30,3 +30,11 @@ We publicly release our [annotation guidelines](./guidelines/) that are used to 
 
 ## 🔗 Cite us
 
+```
+@article{mikhailov2025collection,
+  title={A Collection of Question Answering Datasets for Norwegian},
+  author={Mikhailov, Vladislav and M{\ae}hlum, Petter and Lang{\o}, Victoria Ovedie Chruickshank and Velldal, Erik and {\O}vrelid, Lilja},
+  journal={arXiv preprint arXiv:2501.11128},
+  year={2025}
+}
+```
