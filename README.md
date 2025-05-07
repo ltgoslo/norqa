@@ -31,10 +31,23 @@ We publicly release our [annotation guidelines](./guidelines/) that are used to 
 ## 🔗 Cite us
 
 ```
-@article{mikhailov2025collection,
-  title={A Collection of Question Answering Datasets for Norwegian},
-  author={Mikhailov, Vladislav and M{\ae}hlum, Petter and Lang{\o}, Victoria Ovedie Chruickshank and Velldal, Erik and {\O}vrelid, Lilja},
-  journal={arXiv preprint arXiv:2501.11128},
-  year={2025}
+@inproceedings{mikhailov-etal-2025-collection,
+    title = "A Collection of Question Answering Datasets for {Norwegian}",
+    author = "Mikhailov, Vladislav  and
+      M{\ae}hlum, Petter  and
+      Lang{\o}, Victoria Ovedie Chruickshank  and
+      Velldal, Erik  and
+      {\O}vrelid, Lilja",
+    editor = "Johansson, Richard  and
+      Stymne, Sara",
+    booktitle = "Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)",
+    month = mar,
+    year = "2025",
+    address = "Tallinn, Estonia",
+    publisher = "University of Tartu Library",
+    url = "https://aclanthology.org/2025.nodalida-1.43/",
+    pages = "397--407",
+    ISBN = "978-9908-53-109-0",
+    abstract = "This paper introduces a new suite of question answering datasets for Norwegian; NorOpenBookQA, NorCommonSenseQA, NorTruthfulQA, and NRK-Quiz-QA. The data covers a wide range of skills and knowledge domains, including world knowledge, commonsense reasoning, truthfulness, and knowledge about Norway. Covering both of the written standards of Norwegian {--} Bokm{\r{a}}l and Nynorsk {--} our datasets comprise over 10k question-answer pairs, created by native speakers. We detail our dataset creation approach and present the results of evaluating 11 language models (LMs) in zero- and few-shot regimes. Most LMs perform better in Bokm{\r{a}}l than Nynorsk, struggle most with commonsense reasoning, and are often untruthful in generating answers to questions. All our datasets and annotation materials are publicly available."
 }
 ```
